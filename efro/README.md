@@ -21,7 +21,8 @@ The EFRO ontology provides a standardised framework for modeling concepts and re
 For any questions or concerns about this ontology, please contact:
 * Umair Arshad, Robert Gordon University, Aberdeen, UK
 * Email: u.arshad1@rgu.ac.uk
-
+* 
 ## License
+This ontology is distributed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
-This ontology is distributed under [appropriate license CC BY 4.0
+https://creativecommons.org/licenses/by/4.0/
