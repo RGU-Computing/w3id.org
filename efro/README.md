@@ -24,4 +24,4 @@ For any questions or concerns about this ontology, please contact:
 
 ## License
 
-This ontology is distributed under [appropriate license, e.g., CC BY 4.0, MIT, etc.]
+This ontology is distributed under [appropriate license CC BY 4.0
