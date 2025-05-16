@@ -1,10 +1,10 @@
-# EFR Ontology
+# EFRO (Educational Funding Regulations Ontology)
 
-This W3ID provides a persistent URI namespace for the EFRO (Educational Funding Regulations Ontology).
+This W3ID provides a persistent URI namespace for the EFRO.
 
 ## Ontology Details
 
-The EFRO ontology provides a standardised framework for modeling concepts and relationships within educational funding regulations. It creates a formalised vocabulary for describing funding processes, regulatory requirements, educational institutions, and financial mechanisms related to educational funding.
+The EFRO provides a standardised framework for modeling concepts and relationships within educational funding regulations. It creates a formalised vocabulary for describing funding processes, regulatory requirements, educational institutions, and financial mechanisms related to educational funding.
 
 ## Maintainers
 
