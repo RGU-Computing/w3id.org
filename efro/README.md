@@ -1,4 +1,4 @@
-# EFRO Ontology
+# EFR Ontology
 
 This W3ID provides a persistent URI namespace for the EFRO (Educational Funding Regulations Ontology).
 
